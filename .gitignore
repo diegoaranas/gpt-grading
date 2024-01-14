@@ -162,9 +162,10 @@ cython_debug/
 # Project-Specific
 ###################
 
-# Ignore files on the folders: assignments/ and grades/
+# Ignore files on the folders: assignments/, grades/, and instructions/
 assignments/
 grades/
+instructions/
 
 # Ignore VSCode config files
 .vscode/
