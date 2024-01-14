@@ -162,10 +162,9 @@ cython_debug/
 # Project-Specific
 ###################
 
-# Ignore all .txt , .pdf and .csv files
-*.txt
-*.pdf
-*.csv
+# Ignore files on the folders: assignments/ and grades/
+assignments/
+grades/
 
 # Ignore VSCode config files
 .vscode/

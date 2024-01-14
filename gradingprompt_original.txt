@@ -1,0 +1,56 @@
+Hi, I need you to grade a philosophy assignment. Make your best effort to grade it according to the rubric and give a <400 word comment on the ways it can be improved. Here is a rubric for grading:
+
+```
+Introductory paragraph:  /10
+
+Extraction
+Validity:  /10
+Accuracy: /15   (i.e., does their argument accurately reflect the paragraph(s)?)
+
+Justifications
+Structure: /10  (each premise individually justified?  justified just the premises (not the conclusion)?)
+Content:  /15  (are the justifications on-track?)
+
+Evaluation
+Structure:  /10  (does what they say have the right form of an argument evaluation?)
+Content:  /15
+
+Quality of Writing 
+Clarity:  /10
+Grammar:  /5
+```
+
+I am then going to send you the assignment instructions and whatever information is required to understand the instructions and do the assignment. Then I am going to send you the paper that you will have to grade.
+
+Here are the assignment instructions, compressed by another instance of GPT-4:
+
+```
+[A2] Referring to paper 1 instructions: extract, justify, evaluate argument from text. Options: 1. Pereboom's "Why We Have No Free Will and Can Live Without It" - explain freedom/determinism, compatibilism; extract argument against compatibilism, capturing main line of thought; justify w/ Pereboom's 4 cases. 2. Rachels' "Active and Passive Euthanasia" - focus on p.685, 4 paragraphs; discuss killing/letting die moral distinction; extract, justify, evaluate argument; read full context for both articles.
+```
+
+There instructions make reference to 'paper 1 instructions'. Here are the paper 1 instructions, compressed by another instance of GPT-4:
+
+```
+[As1]
+Rd instrctns. Chs 1. Mackie p.124 “1st query…” or 2. Clark p.166 “1st probl…” & nxt prgrph. Rd context. Paper: intro, extract, justify, evaluate arg in selctn. Extract: valid arg, numbered prem, no suppressd prem. Exmpl: 1. Grandma says tax cheating wrong 2. If she says so, it’s wrong 3. Thus, wrong. Justify: explain y author thinks prem tru, e.g. grandma’s wisdom. Evaluate: assess soundness. Objctns/refutatns on prem, giv reasons; if agree, imagine objctn & reply.
+```
+
+Here are the relevant pieces of text for assignment, compressed by another instance of GPT-4:
+
+[Option 1]
+```
+HrdIncmpArg:2cmp+lng(1)cmpb:frWl+mrlRespblty-cmptblWthDtrm, weHvFrWl(2)lbrtrn:frWl+mrlRespblty-ntCmptblWthDtrm, dtrmFls, hvFrWl. D.Hume+othrs:Cndtns4MrlResp+cmpb. ChlngCmpb:Manipul8nExmpls->MrlRespNotSuff. 4CaseArgm: (1)ProfPlumKillMsWht->ManipltdByNuroscnts (2)PlumLifeTimePrgrmdNuroscnts->EgostcResn->KillMsWht (3)PlumTrainedByHshold+Cmmnty->EgostcResn->KillMsWht (4)PhysclstDtrmTrue->EgostcResn->KillMsWht. Prblm4Cmpb:NoRelvntDffrncBtwnCasesToShowMrlRespInLatrBtNtEarlr1s. ArgmntGnrlzNonRespFrom1stToOrdinryCase.
+```
+
+[Option 2]
+```
+1Rsn ppl thnk mrl dffrnc btwn active&passive euthanasia: kill>worse>let die. 2 cmpre cases 1) Smith drowns cousin 4 inheritance, stages accident 2) Jones plans same, cousin slips&drowns, Jones watches. Smith killed, Jones let die; mrl dffrnc? Mtlv, end goal &moral judgments same. Lttng die defns wght? Nt rlly.
+```
+
+Now I am going to send you the student paper. Here is the student paper, compressed by gptrim:
+
+```
+Introduct:ThroughoutwriteJameRachel,argudistinctactivpassiveuthanasia.maindiscusstwofourparagraphargumentdependpatientsuffer.Passiveuthanasiaformeuthanasiaintentallowpatientdienaturvegetstate.activeuthanasiainvolvadministinjectintentendpatientlife.Rachelbelievnomatteractadminist,followmotiv,therefor.ThroughoutrestessayextractargumentfourparagraphRachel.Extract:1.Activeuthanasiahumanpassiveuthanasia2.ethicbelief(conventdoctrin)leadhazarddecisconcernone(patient)life3.conventdoctrinknowntraditviewidentifimoralwhetherpatientkillratherletdie4.conventdoctrininvalidFeldman2Justif:Premisone:“Activeuthanasiahumanpassiveuthanasia”.ThroughoutwriteJameRachel,continuarguactiveuthanasiahumanpassiveuthanasia.extractargumentonewantmakesurepremisvalid.accordRachel,validargumentthroughouttext.paragraphnineRachelwrite,“distinctkillletdienotmoraldecisnomoraldiffertwo”.goeargusincintentactivpassiveuthanasiaallevipatientsuffer,moraltwojudgwayoutcomhappen.sayactiveuthanasiaquickefficihelppatientcontinupainwouldendsuffer.Premistwo:“ethicbelief(conventdoctrin)leadhazarddecisconcernone(patient)life”.conventdoctrinconsistimportmoralspecifsay“althoughlatersometimpermiss,formeralwayforbidden”.Rachelargumentbelievdoctrinleaddecispatientdiepaindieslowdeath.Insteadwhatmoralright,sometimdoctorloveonethinkeffectpersonlifecouldputpainkeepaliv.quotRacheltextsupportdislikconventwelfar,“caseconventdoctrinleadnotdecismaximwelfardecisquitdisastrpointview.doctrinleaddecisprolongpatientdiegreatagoniratherbringquickmerciend''(paragraph12).showbasefactFeldman3baseirrelevfactormanidetailnotknown,actualwayriskhumandiepainratherpeac.MoraloftengetwaypatienthealthexactRachelsuggest.Premisthree:“conventdoctrinknowntraditviewidentifimoralwhetherpatientkillratherletdie”.JameRacheloftentalkmoralconventdoctrinbelievofcoursmoraldiffertakepositdirectactionendpatientpassawayratherletfadeawaypaint.Allowonediekillpersonhugeparteuthanasia.quotRacheltext,“conventdoctrinaffirmdistinctkillletdiemoralimportdistinct.simplestclearestform,doctrinamountclaim,thingequal,alwaypreferletpatientdieratherkill''(paragraph6Rachel).traditview--hereaft,doctrin--maintainimportmoraldifferkillletdiediffermakegravediffermaymaynot''(paragraph1).AfterreadquotdeepliunderstoodRachelcome.Althoughmoralmaysaypreferletpatientdieratherkill,believdistinctdiffertwo,maylookmoralindeworsbelievdoctrinsomeoncouldpaintherefortakeawaymoral.leadusfourthfinalconcludpremis,“conventdoctrininvalid”.readvalidpremismadeJameRachelbelief,Comment[1]:quotbetter?Feldman4evidconclusvalid.JamebelievConventdoctrininvalidincredcontradictmakehugequestionmoralactual.wouldpersonputpainseepatientheavipainactiveuthanasianotperformoneslowlidie.Evalu:ThroughoutRachelargument,quitlotnoticmoral,health,especiconventdoctrin.specifrelatactivpassiveuthanasiaonebettermoralstand.Throughoutwriteonenoticamountcritiquauthorholdconventdoctrin.lotcontentregard,moralfollow,findactualbetterloveone.Moralrelatpersonstandardrelatacceptprincipleverydaylife.Activvspassiveuthanasiaspecifcasealmostseemlikenorightanswer.Jameargudoctrinrelatpatienthealth,well,chanclifetime.rulebookfollowtypescenariochoicautomatgopassiveuthanasiariskileadpatientsortpain.pointeaspaindeathuseeuthanasiapatientalreadistruggllongtime?wantrelievpainnotsufferanymor?alsodoctorchoicpatientdefinitfriendfamilidecidbasemoral.Coursinputdoctorput.specifideaRachelprovidreadertextpatientthroatcancersuffernolongerswallow.Rachelwrite,``physicianseeFeldman5twowayrelievpatientdistress:withholdfoodwaterpatientdehydrdie,givepatientenoughmorphinrelievpain,eventhoughdosemorphinmayhastenpatientdeathsomewhat''(Rachelparagraph5).greatcomparisonduefactnofoodwaterleaddehydrdeath.Rachelbelievconventdoctrinwouldpromotwithholdfoodwaterpatienteventhoughcouldkeepsuffergoevenlonger,alsonotletdoctorgivepatientdosemorphinallevipainquickendeathperson.therefornowayhelppatient,exemplififactindenomiddlgroundpatientsufferregardless.doctorablchoosoptionbestpatientpainliftnotleavdirt;eitherwaypassawayconventdoctrinleadissuregarddeathnomattermoralsuggest.doctrinindenotconsidpatientfeel,stillalivdeservrightbodiwantpassaway.showconventdoctrinnotconsidernumberoneprioriti,akapatient.Knowwantcruciallotbiasregardhealthperson.makedecisentirlifeloseprivilegonelastdayearthwouldblatant.reasondoctrinsupportpassivamnesiawholelooknotbadperson“best”patient.endcontradictsaypaper.lookpersonopinionregardtexttopicpassivvsactiveuthanasialookspeciftopiccallIdeal.Idealperceivpracticachievperfectvisionari,bigideas.oftentimpeoplFeldman6wantwhatbestlookcertainway.oppostheoripragmat,definactrealistcurrentcircumst.eye,conventdoctrinIdealist..waymakedoctorlookpicturperfectrealitimaywhatworspatient.comechoosactivpassiveuthanasia,pragmatapproachmustappli.wayscenarioread,bestchoicpatienthealthchosengivenmomentnotbaseconventdoctrinexcusdoctorlooklike“rightthing”
+```
+
+Ok. Now grade the paper.
