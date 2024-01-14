@@ -11,9 +11,9 @@ assignments/Assignment 2/draft/[assignments as .pdf]
 assignments/Assignment 2/final/[assignments as .pdf]
 ```
 
-The `draft` folders contains the assignments as they were submitted by the students. The `final` folders contains the assignments after the students have revised them based on the feedback from the previous assignment. The `assignments` folder is not included in this repository, as it contains student data. The `assignments` folder should be placed in the root of this repository.
+The `draft` folders contains the assignments as they were submitted by the students. The `final` folders contains the assignments after the students have revised them based on the feedback from the previous assignment. The `assignments` folder and the files in it are not included in this repository, as they contain student data. The `assignments` folder should be placed in the root of this repository.
 
-The (manual) grades are stored in the `grades` folder, as a series of .csv files. The `grades` folder has the following structure:
+The (manual) grades should be stored in the `grades` folder, as a series of .csv files, with following structure:
 
 ```
 grades/Assignment 1 draft.csv
@@ -22,7 +22,7 @@ grades/Assignment 2 draft.csv
 assignmentgrades.csv
 ```
 
-The `assignmentsgrades.csv` file contains the grades of the students for the assignments. The other files contain the grades of the students for the individual criteria. The `grades` folder should be placed in the root of this repository. The `grades` folder is not included in this repository, as it contains private student data.
+The `assignmentsgrades.csv` file should contain the grades of the students for the assignments. The other files contain the grades of the students for the individual criteria. The `grades` folder should be placed in the root of this repository. The some of these files in the `grades` folder are not included in this repository, as they contain private student data.
 
 After running `main.py`, the `grades` folder should contain the output of the grading process, which should have the following structure:
 
@@ -35,7 +35,7 @@ grades/ai/Assignment 2/final/[grades as .txt]
 
 Some subfolders of the `grades` folder are not included in this repository, as they contain private student data. The `grades` folder should be placed in the root of this repository.
 
-The criteria for grading is specified on the `assignment1_prompt_blueprint` variable which is defined in `constants.py`. This file also contains instructions on how to complete the assignment. The assignments are taken from the following website, with the permission of the author: https://tedsider.org/teaching/intro/intro.html
+The criteria for grading is specified on the `assignment1_prompt_blueprint` variable which is defined in `constants.py`. This file also contains instructions on how to complete the assignment. The assignments are taken from Ted Sider's (Intro to Philosophy)[https://tedsider.org/teaching/phil-101/] course, with the permission of the author.
 
 After running `notebook.ipynb`, the `grades` folder should contain the following files:
 
