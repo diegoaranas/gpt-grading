@@ -35,7 +35,7 @@ grades/ai/Assignment 2/final/[grades as .txt]
 
 Some subfolders of the `grades` folder are not included in this repository, as they contain private student data. The `grades` folder should be placed in the root of this repository.
 
-The criteria for grading is specified on the `assignment1_prompt_blueprint` variable which is defined in `constants.py`. This file also contains instructions on how to complete the assignment. The assignments are taken from Ted Sider's Intro to Philosophy 2023 course, with the permission of the author. (https://tedsider.org/teaching/intro/intro.html)
+The criteria for grading is specified on the `assignment1_prompt_blueprint` variable which is defined in `constants.py`. This file also contains instructions on how to complete the assignment. The assignments are taken from Ted Sider's Intro to Philosophy 2023 course, with the permission of the professor. (https://tedsider.org/teaching/intro/intro.html)
 
 After running `notebook.ipynb`, the `grades` folder should contain the following files:
 
