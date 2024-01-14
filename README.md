@@ -59,6 +59,10 @@ This project requires Python 3.8 or higher. It is recommended to use a virtual e
 
 ```pip install -r requirements.txt```
 
+The project also requires an API key for OpenAI's GPT API. To get an API key, follow the instructions on https://platform.openai.com/docs/quickstart?context=python. After getting the API key, create a file called `.env` in the root of this repository, and add the following line to it:
+
+```OPENAI_API_KEY=[your api key]```
+
 ### Automatic Grading
 
 To automatically grade the assignments, make sure the .pdf files are in the required folders and run:
