@@ -40,5 +40,9 @@ def _read_pdf(path: Path) -> str:
 
 
 def _read_text(path: Path) -> str:
-    """Read a plain text file."""
-    return path.read_text()
+    """Read a plain text file, trying UTF-8 first then the system default."""
+    try:
+        return path.read_text(encoding="utf-8")
+    except UnicodeDecodeError:
+        # Fall back to the platform default (e.g. cp1252 on Windows)
+        return path.read_text()
