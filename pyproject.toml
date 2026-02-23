@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "essay-grader"
+version = "0.1.0"
+description = "Grade essays using LLMs with customizable rubric templates"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+    "click>=8.0",
+    "jinja2>=3.0",
+    "pyyaml>=6.0",
+    "pypdf>=3.0",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+openai = ["openai>=1.0"]
+anthropic = ["anthropic>=0.20"]
+all = ["openai>=1.0", "anthropic>=0.20"]
+
+[project.scripts]
+essay-grader = "essay_grader.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["essay_grader*"]
